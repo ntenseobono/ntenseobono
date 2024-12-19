@@ -15,9 +15,21 @@ Hey there! Thanks for stopping by my GitHub. Here's a little about me:
 
 ---
 
-## 🌟 Let's Connect!
+## 🛠️ **Skills & Interests**
 
-Feel free to reach out to me through any of the links below:  
+| **Languages**       | **Frameworks & Tools**  | **Cloud Services**       |
+|----------------------|-------------------------|---------------------------|
+| Python, Java, SQL    | TensorFlow, Flask       | AWS, Microsoft Azure     |
+| C, JavaScript, HTML  | Pandas, Selenium        | Google Cloud Platform    |
+| CSS, Asm            | Docker, MongoDB         |                           |
 
-- 🌐 **Portfolio:** [ntenseobono.com]([https://zehoubenzhao.com/](https://www.linkedin.com/in/ntenseobono/))  
-- 📧 **Email:** [ntense@gmail.com](mailto:ntenseo
+---
+
+## 🌟 Let's Connect!**
+
+| 📂 Portfolio | [ntenseobono.com](http://obonon.sites.carleton.edu/) |  
+|--------------|---------------------------------------------------|  
+| 📧 Email     | [ntenseo@gmail.com](mailto:ntenseo@gmail.com) |  
+| 🌐 LinkedIn  | [linkedin.com/in/ntenseobono](https://www.linkedin.com/in/ntenseobono) |  
+
+---
