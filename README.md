@@ -2,7 +2,7 @@
 
 ---
 
-### **AI Engineer/ Software Developer/ Athlete)**  
+### **AI Engineer/ Software Developer/ Athlete **  
 
 ---
 
